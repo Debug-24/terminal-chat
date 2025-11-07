@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="c7KKh0kjPm35-TEa2vDZ">
+        <mxGraphModel dx="702" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="UbR4OjaNlFEU67B_1HsO-1" value="Main Server" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="70" width="245" height="124" as="geometry"/>
+                </mxCell>
+                <mxCell id="UbR4OjaNlFEU67B_1HsO-2" value="-Handles registration (usernames)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="UbR4OjaNlFEU67B_1HsO-1" vertex="1">
+                    <mxGeometry y="26" width="245" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="UbR4OjaNlFEU67B_1HsO-3" value="- Maintain user list" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="UbR4OjaNlFEU67B_1HsO-1" vertex="1">
+                    <mxGeometry y="76" width="245" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="UbR4OjaNlFEU67B_1HsO-4" value="- Broadcast mesages" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="UbR4OjaNlFEU67B_1HsO-1" vertex="1">
+                    <mxGeometry y="102" width="245" height="22" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
